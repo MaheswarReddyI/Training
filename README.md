@@ -23,27 +23,30 @@ bash
 
 The project doesnot need any installation , by adding this project to the IDE's workspace and adding all the required jar files given below to the class path the project will surve its purpose.
 ### Prerequisites 
-The Project has some Prerequisites, jar files / libraries must be installed or added to the dependency’s. Following are required Jar files to add to the classPath for different features,
-1. [pdfunit-java-2016.05.jar](http://www.pdfunit.com/en/download/)
-2. [javax.mail.jar](https://jar-download.com/artifacts/com.sun.mail/javax.mail/1.6.1/source-code)
+The Project has some Prerequisites, jar files / libraries must be added to the dependency’s. Following are required Jar files to add to the classPath for different features,
+
+1. [javax.mail.jar](https://jar-download.com/artifacts/com.sun.mail/javax.mail/1.6.1/source-code)
 3. [activation-1.1.1.jar](https://jar-download.com/artifacts/javax.activation/activation/1.1.1/source-code)
 4. [jfreechart-1.5.3.jar](https://search.maven.org/artifact/org.jfree/jfreechart/1.5.3/jar)
-5. [Underscore-1.81.jar](https://mavenlibs.com/jar/file/com.github.javadev/underscore)
 6. [opencsv-1.7.jar](https://jar-download.com/?search_box=opencsv-1.7)
-7. [jflat-core-1.3.8.jar](https://jar-download.com/?search_box=JFlat)
-8. [commans.io.2.11.0.jar](https://mvnrepository.com/artifact/commons-io/commons-io/2.11.0)
-9. [itextpdf-5.1.0.jar](https://mvnrepository.com/artifact/com.itextpdf/itextpdf/5.1.0)
-10. [zip4j-2.11.2.jar](https://mvnrepository.com/artifact/net.lingala.zip4j/zip4j/2.11.2)
+7. [commans.io.2.11.0.jar](https://mvnrepository.com/artifact/commons-io/commons-io/2.11.0)
+8. [itextpdf-5.1.0.jar](https://mvnrepository.com/artifact/com.itextpdf/itextpdf/5.1.0)
+9. [zip4j-2.11.2.jar](https://mvnrepository.com/artifact/net.lingala.zip4j/zip4j/2.11.2)
+10. [pdfbox-1.2.0](http://www.java2s.com/Code/Jar/p/Downloadpdfbox120jar.htm)
+11. [fontbox-1.5.0](http://www.java2s.com/Code/Jar/f/Downloadfontbox150jar.htm)
+12. [commons-logging-1.2.1.1.jar](http://www.java2s.com/Code/Jar/c/Downloadcommonslogging1211jar.htm)
+11. [log4j-api-2.18.0](https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api)
+12. [jrecord-1.2.6](https://mvnrepository.com/artifact/com.ksc.mission.base/jrecord/1.2.6.1)
 
-- if any of them are not working try out the latest versions of jar file
+- if any of them are not working try out the latest versions of the Respective jar file.
 
     
 ## Roadmap
 
-- The development of project is completed under features branch i.e, [features](https://github.com/Vijay-Yadav-8/AzugaTraining/tree/features)
+- The development of project is completed under features branch i.e, [features](https://github.com/MaheswarReddyI/Training/tree/Features)
 
 
-- The testing of the program's is completed under testing branch i.e,[testing](https://github.com/Vijay-Yadav-8/AzugaTraining/tree/testing)
+- The testing of the program's is completed under testing branch i.e,[testing](https://github.com/MaheswarReddyI/Training/tree/testing)
 
 ## Features
 
